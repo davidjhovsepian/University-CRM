@@ -43,4 +43,4 @@ As a result of my involvement in this project, the school realized several signi
 - Stakeholder Management: I effectively communicated with stakeholders at all levels, managing their expectations and keeping them informed about project progress. 🗣️👥
 - Training and Support: I conducted user training sessions and provided ongoing support to ensure successful user adoption. 📚🤝
 
-As a dedicated and skilled Project Manager, I am confident that my experience and expertise will contribute significantly to the success of the University CRM Tool ERP implementation, delivering value and empowering the institution for future growth. 🚀🏫🌟
+As a dedicated and skilled Project Manager, I am confident that my experience and expertise contributed significantly to the success of the University CRM Tool ERP implementation, delivering value and empowering the institution for future growth. 🚀🏫🌟
