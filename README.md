@@ -1,8 +1,8 @@
  **Project Description: University CRM Tool ERP Implementation** 🎓
 
 **Roles and Responsibilities:** 
-As the Project Manager for the University CRM Tool ERP implementation, my key responsibilities included:As the Project Manager for the University CRM Tool ERP implementation, my key responsibilities included:
-- By ensuring the project is properly aligned with the stakeholders' objectives, and by setting clear success criteria, we can avoid communication gaps.
+I was the Project Manager for a CRM Tool ERP implementation project. I had many key responsibilities which included:
+-  ensuring that the project was properly aligned with the stakeholders' objectives. I helped them to use a framework and we set clear success criteria. It was imperative to avoid communication gaps and communication nodes as it is important to have perspective in this case. 
 - One of the tasks of strategic planning utilizes this: it is project planning, which involves dates of important stages, resources, and, of course, risks.
 - Serving and cofaving the project team, ensuring effective communication and synergy.
 - Regular status meetings and progress reporting to stockholders as a part of the project status updating process.
