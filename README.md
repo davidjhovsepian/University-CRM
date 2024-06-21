@@ -13,14 +13,14 @@ As the Project Manager for the University CRM Tool ERP implementation project, I
 - **Change Management:** Built organizational readiness for the new CRM solution, minimizing roadblocks during the transition.
 
 **Retrospective:**
-The University CRM Tool ERP implementation was a challenging but rewarding project. We successfully upgraded the existing system, allowing the school to manage applications more efficiently and make data-driven decisions. The sequential launch method facilitated a smooth transition for users.
+The University CRM Tool ERP implementation was a challenging but rewarding project. We successfully upgraded the existing system, allowing the school to manage applications more efficiently and make data-driven decisions. The sequential launch method facilitated a smooth transition for users. To go into more detail the technical transformation from the on-premise solution to Microsoft Dynamics 365 (MD365) involved several key steps:
 
-**Issues and Solutions:**
-During the project, we encountered several challenges:
-
-1. **Integration Complexity:** The new CRM system had different data structures and formats from the previous system. We conducted data mapping to understand the data models and employed middleware for seamless data flow.
-2. **User Adoption:** Initial resistance from staff was overcome through thorough training sessions and continued support, helping users become comfortable with the new tool.
-3. **Data Privacy Compliance:** Ensured compliance with data privacy regulations by working closely with the CRM vendor to implement robust security measures, which were subsequently audited.
+- **System Assessment and Planning:** Conducted a thorough assessment of the existing on-premise CRM system to identify data structures, workflows, and customization needs. Planned the migration path to MD365, including necessary adjustments to align with cloud architecture.
+- **Data Migration:** Utilized Microsoft's Data Migration Framework to transfer data from the old system to MD365. This included mapping data fields, cleaning data to ensure accuracy, and testing the migration process to prevent data loss or corruption.
+- **Integration:** Implemented integration solutions using Microsoft Power Platform tools, such as Power Automate, to ensure seamless data flow between MD365 and other university systems, including the student information system (SIS) and financial software.
+- **Customization and Configuration:** Customized MD365 to meet the university's specific requirements, including creating custom entities, workflows, and business rules. Configured security roles and permissions to ensure data privacy and compliance with regulations.
+- **User Interface Design:** Designed a user-friendly interface within MD365, incorporating dashboards and reports tailored to the needs of different user groups, such as admissions officers and academic staff.
+- **Training and Support:** Developed and delivered comprehensive training programs for end-users, focusing on the features and benefits of MD365. Provided ongoing support through a helpdesk and user manuals to facilitate smooth adoption.
 
 **Value Realized:**
 As a result of my involvement in this project, the school realized several significant benefits:
@@ -32,9 +32,10 @@ As a result of my involvement in this project, the school realized several signi
 
 **Tech Stack and Skills:**
 **Technical Skills:**
-- **Project Management:** Utilized Agile and Scrum methodologies for planning, executing, tracking, and adjusting project stages as a Scrum Master.
-- **Data Mapping and Integration:** Coordinated data mapping processes and integration between different systems and the CRM tool.
-- **Security and Compliance:** Ensured compliance with data protection requirements and implemented security measures to protect personal information.
+- **Microsoft Dynamics 365:** Extensive experience in configuring, customizing, and deploying MD365, including module integration and data migration.
+- **Power Platform:** Proficient in using Power Automate for workflow automation and Power BI for data analytics and reporting.
+- **Data Migration Framework:** Utilized Microsoft’s Data Migration Framework for seamless data transfer from on-premise systems to MD365.
+- **Azure Services:** Implemented Azure Active Directory for single sign-on (SSO) and role-based access control (RBAC) to enhance security and compliance.
 
 **Functional Skills:**
 - **Business Process Analysis:** Analyzed the school’s admissions process to identify areas for improvement and automation.
@@ -42,4 +43,3 @@ As a result of my involvement in this project, the school realized several signi
 - **Training and Support:** Provided user training and support throughout the project to facilitate successful user adoption.
 
 As a dedicated Project Manager, my expertise significantly contributed to the success of the University CRM Tool ERP implementation, positioning the institution for future growth.
-
